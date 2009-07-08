@@ -6,6 +6,14 @@
  * @author Sune Jensen
  * @package Ilib_Translation_Collection
  */
+
+/**
+ * Contains an collection of translation objects, which makes it possible to use more than one translation source
+ * Works together with PEAR Translation2.
+ * 
+ * @author Sune Jensen
+ * @package Ilib_Translation_Collection
+ */
 class Ilib_Translation_Collection
 {
     
